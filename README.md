@@ -35,11 +35,9 @@ This dashboard helps businesses understand key sales trends, profitable categori
 ---
 
 ## **Dashboard**
+![WhatsApp Image 2025-10-18 at 20 12 30_74352fd8](https://github.com/user-attachments/assets/07ece8dc-270c-4496-acfb-f96e2a5a9dc7)
 
-**Screenshot:**
-<a href="https://github.com/maligesumanasri/Sumana-Ecommerce-Sales-Dashboard/blob/main/Screenshot.jpg">View Dashboard</a>
-
-**Key Visuals Used:**
+## **Key Visuals Used:**
 
 * Bar chart – Sum of Amount by State
 * Donut chart – Amount by Category
